@@ -1,4 +1,4 @@
-## "I´m Back" 23Jordan🐐  
+## "I´m Back" 🐐  
 # 👩🏻‍💻 Gustavo Rodrigues
 
 **`Desenvolvedor Back-End`**
