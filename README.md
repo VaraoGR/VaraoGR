@@ -1,5 +1,5 @@
 ## "I´m Back" 🐐  
-# 👩🏻‍💻 Gustavo Rodrigues
+# 👾 Gustavo Rodrigues
 
 **`Desenvolvedor Back-End`**
 
