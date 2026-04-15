@@ -6,8 +6,9 @@
 Me chamo Gustavo Rodrigues, tenho 17 anos e sou Natural de São paulo, Cursando Ensino Médio e Técnico de Desenvolvimento de Sistemas, com Diversos cursos Técnicos na Área de Informática.
 Sempre criando Projetos Práticos para uma Aprendizagem cada vez Melhor e um Preparo Total
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
+<div>
 <img 
     align="left" 
     alt="HTML"
@@ -72,11 +73,13 @@ Sempre criando Projetos Práticos para uma Aprendizagem cada vez Melhor e um Pre
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"
 />
+<div>
 <br/>
 <br/>
 
-### 🌊 Design
+## 🌊 Design
 
+<div>
 <img 
     align="left" 
     alt="Canva" 
@@ -94,4 +97,6 @@ Sempre criando Projetos Práticos para uma Aprendizagem cada vez Melhor e um Pre
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
 </p>
-
+<div>
+    
+---
