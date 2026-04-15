@@ -4,7 +4,7 @@
 **`Desenvolvedor Back-End`**
 
 Me chamo Gustavo Rodrigues, tenho 17 anos e sou Natural de São paulo, Cursando Ensino Médio e Técnico de Desenvolvimento de Sistemas, com Diversos cursos Técnicos na Área de Informática.
-Sempre criando Projetos Práticos do para uma Aprendizagem cada vez Melhor e um Preparo Total
+Sempre criando Projetos Práticos para uma Aprendizagem cada vez Melhor e um Preparo Total
 
 ### 🤖 Linguagens e Tecnologias
 
